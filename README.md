@@ -171,16 +171,13 @@ Then:
 
 ---
 
-## Why This Project Matters
-
-This project demonstrates practical experience in:
+##Skills Demonstrated
 
 - Retrieval-Augmented Generation (RAG)
-- Vector Databases (FAISS)
+- FAISS Vector Database
 - LLM Integration
-- Streamlit App Development
-- LangChain Pipelines
-- Prompt Engineering
+- Streamlit Development
+- LangChain
 
 ---
 
